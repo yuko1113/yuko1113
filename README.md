@@ -1,4 +1,4 @@
-### Hi I'm Yukako🌱
+### Hi! I'm Yukako:relaxed:
 
 <p align="left"> 
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuko1113&show_icons=true&theme=gruvbox" />
